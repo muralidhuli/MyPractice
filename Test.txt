@@ -6,3 +6,5 @@ hibernate
 spring aop 
 spring data 
 spring jdbc 
+webservice
+angular
